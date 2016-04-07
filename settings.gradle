@@ -1,0 +1,1 @@
+include ':app', ':fragmentsimplemodule', ':myapplicationStyle', ':myapplicationBar', ':myapplicationDrawer', ':myapplicationTABS', ':MiniProjet'
